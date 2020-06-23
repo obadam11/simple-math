@@ -1,0 +1,15 @@
+{
+  "name": "simple-math",
+  "version": "1.0.0",
+  "description": "simple math module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Obada Mik",
+  "license": "MIT"
+}
